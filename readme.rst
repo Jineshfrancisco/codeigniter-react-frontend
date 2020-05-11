@@ -1,7 +1,7 @@
 ###################
 CodeIgniter - React Frontend Scaffolding
 ###################
-Frontend scaffolding 
+React Frontend scaffolding 
 Build for CodeIgniter Development Framework 
 
 *******************
