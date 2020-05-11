@@ -1,0 +1,45 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// abstract
+@import "./abstracts/functions";
+@import "./abstracts/mixins";
+@import "./abstracts/placeholders";
+@import "./abstracts/variables";
+
+//base
+@import "./base/animations";
+@import "./base/base";
+@import "./base/reset";
+@import "./base/typography";
+@import "./base/utilities";
+//components
+@import "./components/bg-video";
+@import "./components/buttons";
+@import "./components/cards";
+@import "./components/carousel";
+@import "./components/composition";
+@import "./components/cover";
+@import "./components/dropdown";
+@import "./components/popups";
+
+//layout
+@import "./layout/footer";
+@import "./layout/forms";
+@import "./layout/grid";
+@import "./layout/header";
+@import "./layout/navigations";
+@import "./layout/sidebar";
+
+//pages
+@import "./pages/home";
+@import "./pages/about";
+
+//themes
+@import "./themes/admin";
+@import "./themes/default";
+
+//vendors
+// if you need any other css framework please add here
+@import "./vendor/bootstrap";
+//@import './vendor/bulma';
