@@ -50,7 +50,7 @@ agreement`_.
 Resources
 *********
 
--  `User Guide <https://codeigniter.com/docs>`_
+-  `CodeIgniter User Guide: <https://codeigniter.com/docs>`_
 -  `React <http://reactjs.org/>`_
 -  `Sass Guidelines <http://sass-guidelin.es/>`_
 -  `Bootstap <https://getbootstrap.com>`_
