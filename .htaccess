@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /flavu_react/
+    RewriteBase /codeigniter_react/
     RewriteCond %{REQUEST_URI} ^system.*
     RewriteRule ^(.*)$ /index.php/$1 [L]
 

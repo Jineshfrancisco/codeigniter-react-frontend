@@ -10,7 +10,8 @@ Release Information
 React version- 16.13.1
 codeIgniter- 3.1.11
 Bootstap 4.4.1
-This repo contains Codeigniter 3.1.11 . Please download the
+This repo contains Codeigniter 3.1.11 . 
+Please download the
 latest stable release.... please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
 
@@ -30,8 +31,12 @@ issues, as well as missing features.
 Installation
 ************
 Clone/download this Repository ...
+
 npm install && npm run watch
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
+
+change .htaccess file rewriteBase 
+
+more about codeigniter ..Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
 *******
