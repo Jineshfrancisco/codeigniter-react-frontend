@@ -24,6 +24,7 @@ latest stable release.... please visit the `CodeIgniter Downloads
 Server Requirements
 *******************
 npm 12.16.3 or newer
+
 PHP version 7.2 or newer is recommended.
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
