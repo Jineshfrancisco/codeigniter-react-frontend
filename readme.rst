@@ -8,8 +8,11 @@ Build on top CodeIgniter Development Framework
 Release Information
 *******************
 React version- 16.13.1
+
 codeIgniter- 3.1.11
+
 Bootstap 4.4.1
+
 This repo contains Codeigniter 3.1.11 . 
 Please download the
 latest stable release.... please visit the `CodeIgniter Downloads
