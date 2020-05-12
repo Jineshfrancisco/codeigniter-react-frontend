@@ -58,4 +58,6 @@ Resources
 -  `React <http://reactjs.org/>`_
 -  `Sass Guidelines <http://sass-guidelin.es/>`_
 -  `Bootstap <https://getbootstrap.com>`_
+-   `Laravel-mix <https://laravel-mix.com/docs/5.0/installation>`-
+
 
