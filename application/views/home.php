@@ -7,7 +7,7 @@
     <title>Welcome to Codeigniter-React 3.1.11</title>
 </head>
 <body>
-    <div class="jumbotron">
+    <div class="jumbotron text-center text-info">
         <h1 class="display-3">Welcome to Codeigniter-React 3.1.11</h1>   
     </div>
     <div id="app"></div>
