@@ -20,7 +20,6 @@
 	},
 	"devDependencies": {
 		"axios": "^0.19.2",
-		"lodash": "^4.17.15",
 		"@babel/preset-env": "^7.9.6",
 		"@babel/preset-react": "^7.9.4",
 		"jest": "^26.0.1",
