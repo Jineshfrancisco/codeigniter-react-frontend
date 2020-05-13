@@ -48,7 +48,7 @@ License
 *******
 
 Please see the `license
-agreement`_.
+agreement <https://github.com/Jineshfrancisco/codeigniter-react-frontend/blob/master/License>`_.
 
 *********
 Resources
