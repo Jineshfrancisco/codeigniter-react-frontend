@@ -27,7 +27,8 @@ require('./react/Index');
  * =======================================
  * vanilla Javascript code
  * =======================================
- * if you don't need this , please comment below line
+ * if you want vanilla javascript codes add into this file. 
+ * if you don't need this file , please comment below line
  */
 require('./config/simple');
 

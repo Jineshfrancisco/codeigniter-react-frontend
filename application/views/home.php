@@ -7,8 +7,8 @@
     <title>Codeigniter-React Frontend</title>
 </head>
 <body>
-    <div class="jumbotron text-center text-info">
-        <h1 class="display-3">Welcome to Codeigniter-React 3.1.11</h1>   
+    <div class="jumbotron jumbo-color ">
+        <h1 class="display-3">.  <span class="txt-type joe-color " data-wait="2000" data-words='["Welcome to CodeIgniter 3.1.11", "React.JS Frontend", "BoilerPlate by Jinesh Francisco"]'></span></h1>   
     </div>
     <div id="app"></div>
     <script src="<?php echo base_url(); ?>public/js/main.js"></script>

@@ -7,8 +7,8 @@ class Welcome extends Component {
 			<div className="container">
 				<div className="card text-center">
 					<div className="card-block ">
-						<h2 className="card-title text-success ">{name}</h2>
-						<h5 className="card-text text-danger ">{content}</h5>
+						<h2 className="card-title joe-color ">{name}</h2>
+						<h5 className="card-text joe-pink ">{content}</h5>
 					</div>
 				</div>
 			</div>
